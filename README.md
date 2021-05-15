@@ -33,7 +33,7 @@ If the player wins, they gain 1 point. If the computer wins, the player loses on
 - Scissors beats Paper
 
 ## ⚒ Deploy
-👉 https://jazzdesign.github.io/rock-paper-scissors-frontmentor/
+👉 https://jazzdesign.github.io/rock-paper-scissors-frontendmentor/
 
 ## 🙋 Challenge solved by me.
 @jsonchicas / @JazzDesign
